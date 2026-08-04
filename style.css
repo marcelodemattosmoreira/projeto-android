@@ -39,7 +39,7 @@ header h1{
     text-transform: uppercase;
     text-shadow: -2px 3px 4px rgba(0, 0, 0, 0.582);
     font-family: var(--fonte-destaque);
-    font-size: 10vw;
+    font-size: 4em;
 }
 header p{
     color: var(--cor2);
@@ -75,6 +75,7 @@ main h1{
     background-image:linear-gradient(to right, var(--cor3), var(--cor2));
     color: var(--cor5);
     font-family: var(--fonte-android);
+    font-size: 2em;
     padding: 15px;
 }
 main h2{
