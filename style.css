@@ -39,7 +39,7 @@ header h1{
     text-transform: uppercase;
     text-shadow: -2px 3px 4px rgba(0, 0, 0, 0.582);
     font-family: var(--fonte-destaque);
-    font-size: 3em;
+    font-size: 10vw;
 }
 header p{
     color: var(--cor2);
